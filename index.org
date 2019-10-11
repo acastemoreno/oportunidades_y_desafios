@@ -1,0 +1,210 @@
+#+TITLE: Oportunidades y desafíos para próximos profesionales
+#+SUBTITLE: Independiente de la especialidad
+#+DATE: 2019/10/11（Sabado）19:00
+#+AUTHOR: Albert Castellano Moreno
+#+EMAIL: acastemoreno@gmail.com
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:nil p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:nil todo:t |:t
+#+CREATOR: Emacs 24.4.1 (Org mode 8.2.10)
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+
+#+TWITTER: acastemoreno
+
+#+FAVICON: images/logo.png
+#+ICON: images/logo.png
+
+* Realidad
+La mayoria de profesionales egresados de la *UNI* son competentes en el mercado laboral peruano; pero no lo son a nivel internacional. Somos competentes en nuestro pais porque la industria peruana es desordenada y poco eficiente.
+
+En que sentido es desordenada y poco eficiente?
+- Abunda el trabajo manual
+- Reaccion cuando ocurren problemas (Reactivos)
+- Consumimos, más no desarrollamos tecnologia.
+
+* 
+Aunque tarde, nuestro pais empieza a integrarse en la siguiente revolucion industrial
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 800px
+[[file:images/linea_revolucion.jpg]]
+#+END_CENTER
+
+* 
+:PROPERTIES:
+:FILL:     images/industria_4.0.jpg
+:TITLE:    white
+:SLIDE:    white
+:END:
+
+* 
+Los fundamentos sobre los que podemos decir que se fundamenta esta 4ª Revolución Industrial son:
+- Internet de las Cosas (IoT)
+- Big Data
+- Inteligencia Artificial
+
+* Internet de las Cosas (IoT)
+  :PROPERTIES:
+  :SLIDE:    segue dark quote
+  :ASIDE:    right bottom
+  :ARTICLE:  flexbox vleft auto-fadein
+  :END:
+
+* IoT
+Agrupación e interconexión en tiempo real de dispositivos y objetos a través de una red (bien sea privada o publica).
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 500px
+[[file:images/iot.jpeg]]
+#+END_CENTER
+
+#+Attr_HTML: :class note
+#+BEGIN_QUOTE
+Enlaces[fn:1]
+Enlaces[fn:2]
+#+END_QUOTE
+
+* 
+:PROPERTIES:
+:FILL:     images/IOT-Components.jpg
+:TITLE:    white
+:SLIDE:    white
+:END:
+
+* Enfoque en IOT
+- Canales e Intercomunicación de dispositivos.
+    - Infraestructura de red
+    - Protocolos de comunicación
+- Diseño concurrente y distribuido
+    - Tolerancia a fallos.
+    - Deploy, mantenimiento y actualizacion de dispositivos.
+
+#+Attr_HTML: :class note
+#+BEGIN_QUOTE
+Enlaces[fn:3]
+Enlaces[fn:4]
+#+END_QUOTE
+
+* Big Data
+  :PROPERTIES:
+  :SLIDE:    segue dark quote
+  :ASIDE:    right bottom
+  :ARTICLE:  flexbox vleft auto-fadein
+  :END:
+
+* Big Data
+Conjuntos de datos cuyo tamaño (volumen), complejidad (variabilidad) y velocidad de crecimiento (velocidad) dificultan su captura, gestión, procesamiento o análisis mediante tecnologías y herramientas convencionales.
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 500px
+[[file:images/bigdata_filter.jpg]]
+#+END_CENTER
+
+* 
+:PROPERTIES:
+:FILL:     images/4-Vs-of-big-data.jpg
+:TITLE:    white
+:SLIDE:    white
+:END:
+
+* 
+:PROPERTIES:
+:FILL:     images/Big-Data-Landscape-2016-v18.png
+:TITLE:    white
+:SLIDE:    white
+:END:
+
+* Inteligencia Artificial
+  :PROPERTIES:
+  :SLIDE:    segue dark quote
+  :ASIDE:    right bottom
+  :ARTICLE:  flexbox vleft auto-fadein
+  :END:
+
+* 
+:PROPERTIES:
+:FILL:     images/ai-machine-learning-deep-learning.jpg
+:TITLE:    white
+:SLIDE:    white
+:END:
+
+* 
+:PROPERTIES:
+:FILL:     images/road_AI.png
+:TITLE:    white
+:SLIDE:    white
+:END:
+
+* Machine Learning??
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 350px
+[[file:images/machine_learning_meme.jpg]]
+#+END_CENTER
+
+* 
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 450px
+[[file:images/machine_learning_meme2.png]]
+#+END_CENTER
+
+** Deep Learning
+El Deep Learning lleva a cabo el proceso de Machine Learning usando una red neuronal artificial que se compone de un número de niveles jerárquicos.
+#+BEGIN_CENTER
+#+ATTR_HTML: :width 450px
+[[file:images/DeepLearn.png]]
+#+END_CENTER
+
+#+Attr_HTML: :class note
+#+BEGIN_QUOTE
+Enlaces[fn:5]
+Enlaces[fn:6]
+#+END_QUOTE
+
+* Como mejoro mis Oportunidades
+  :PROPERTIES:
+  :SLIDE:    segue dark quote
+  :ASIDE:    right bottom
+  :ARTICLE:  flexbox vleft auto-fadein
+  :END:
+
+** Experiencia Laboral (Logros Academicos)
+- Realizar proyectos multidiciplinarios.
+- Organiza actividades academicas.
+- Participa en concursos y hackatons.
+- Aprende a usar excel decentemente.
+- Deja de usar excel y aprende a programar.
+- Capacitate siempre
+
+** Crece como persona
+- No planches.
+- No te envicies.
+- No tengas miedo a los retos.
+- Ten iniciativa
+- Aprende a trabajar en equipo.
+    - Ten empatia
+    - Delega.
+    - Lidera.
+
+#+Attr_HTML: :class note
+#+BEGIN_QUOTE
+Enlaces[fn:7]
+#+END_QUOTE
+
+* Gracias
+:PROPERTIES:
+:SLIDE: thank-you-slide segue
+:ASIDE: right
+:ARTICLE: flexbox vleft auto-fadein
+:END:
+
+* Footnotes
+[fn:1] [[https://www.youtube.com/watch?v=6MN0xRJ3yzE][Beginners: What is Industrial IoT (IIoT)]]
+[fn:2] [[https://home.kpmg/xx/en/home/campaigns/2019/06/converging-5g-and-iot.html][A faster path to smart manufacturing]]
+[fn:3] [[https://www.youtube.com/watch?v=fRP_dVton7o][ElixirConf 2019 - Day 2 Morning Keynote - Justin Schneck]]
+[fn:4] [[https://www.youtube.com/watch?v=q05FpRagOXg][Proyecto Controles (Elixir y Nerves Project)]]
+[fn:5] [[http://www.automatingthefuture.com/blog/2017/2/20/deep-learning-building-and-training-a-multi-layered-neural-network-in-elixir
+][Deep Learning with Elixir]]
+[fn:6] [[https://www.erlang-factory.com/upload/presentations/735/NeuroevolutionThroughErlang.pdf][Neuroevolution Through Erlang]]
+[fn:7] [[https://www.youtube.com/watch?v=U8pRaj22MlI][Simpatía Vs Empatía]]
